@@ -2,7 +2,7 @@
 
 # Description
 
-This is a unity 2d project for block breaker game
+This is a unity 2d project for block breaker game /n
 Link to play the game: https://sharemygame.com/@Obviate/tile-crusher
 
 # Version of Projects
